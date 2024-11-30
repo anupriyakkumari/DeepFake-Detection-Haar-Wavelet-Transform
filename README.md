@@ -1,6 +1,6 @@
 # DeepFake Detection using Haar Wavelet Transform
 
-### Digital Image Processing (ECN-316) Course Project: Deepfake Detection Using Haar Wavelet Transform, a Reproducibility Study.
+##### Digital Image Processing (ECN-316) Course Project: Deepfake Detection Using Haar Wavelet Transform, a Reproducibility Study.
 
 
 ### Contributors:
