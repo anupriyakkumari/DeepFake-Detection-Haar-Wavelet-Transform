@@ -4,7 +4,7 @@ Digital Image Processing (ECN-316) Course Project: Deepfake Detection Using Haar
 
 
 Contributors:
-
+<pre>
 Anupriya Kumari                               Atharva Nandkumar Sonare
 
 22116015                                      22116022
@@ -17,6 +17,7 @@ Soham Parolia                                 Swadesh Swain
 2211                                          22116089
 
 soham_p@ece.iitr.ac.in                        swadesh_s@ece.iitr.ac.in
+</pre>
 
 
 This work presents a reproducibility study of the original [Haar Wavelet Transform-based deepfake detection method](https://ieeexplore.ieee.org/document/9142077/). Through this implementation, we identified shortcomings in the original methodology and proposed corrections. Our enhancements include proper edge structure classification, structural analysis validated through Laplacian sharpness measurements, and precise kernel specifications. Although different accuracy metrics are achieved compared to the original paper, our implementation represents a more reliable and interpretable approach to wavelet-based deepfake detection.
