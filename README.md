@@ -27,4 +27,4 @@ This repository contains our implementation of the original method in the form o
 [Our report](https://drive.google.com/) covers the detailed background of the work. 
 
 A ready-to-run version of our final code can be found at our [Kaggle Notebook here](https://www.kaggle.com/code/anupriyakkumari/haar-wavelet-deepfake).
-This notebook has been divided into multiple sections corresponding to the following functions. It is easy to follow and run the notebook. The datasets are public. 
+This notebook has been divided into multiple sections corresponding to the functions under them. It is easy to follow and run the notebook. The datasets are public. 
