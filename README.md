@@ -8,7 +8,6 @@
 Anupriya Kumari                               Atharva Nandkumar Sonare
 22116015                                      22116022
 anupriya_k@ece.iitr.ac.in                     atharva_ns@ece.iitr.ac.in
-                                              atharvasonare700@gmail.com
 
 
 Soham Parolia                                 Swadesh Swain
