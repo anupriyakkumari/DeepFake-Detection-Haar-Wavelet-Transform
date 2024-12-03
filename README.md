@@ -24,7 +24,7 @@ This work presents a reproducibility study of the original [Haar Wavelet Transfo
 This repository contains our implementation of the original method in the form of an IPython Notebook file, with added visualizations such as Haar Wavelet decompositions at 3 levels, their corresponding edge maps and max-pooled edge maps, edge structure detection demonstration, and demonstration of varying ROI size.
 
 
-[Our report]([https://drive.google.com/](https://drive.google.com/file/d/12ynwcAZBrZIst2zku9jDFpOcMbIGrGNX/view?usp=sharing)) covers the detailed background of the work. 
+[Our report](https://drive.google.com/file/d/12ynwcAZBrZIst2zku9jDFpOcMbIGrGNX/view?usp=sharing) covers the detailed background of the work. 
 
 A ready-to-run version of our final code can be found at our [Kaggle Notebook here](https://www.kaggle.com/code/anupriyakkumari/haar-wavelet-deepfake).
 This notebook has been divided into multiple sections corresponding to the functions under them. It is easy to follow and run the notebook. The datasets are public. 
